@@ -122,7 +122,7 @@
             </div>
         </div>
     </div>
-    <section id="coming-next" data-background="/assets/images/content/bg-1.jpg" data-parallax="35" class="ct-u-padding-both-40 ct-u-background--black ct-u-mask">
+    <section id="coming-next" data-background="/assets/images/content/rafting5.jpg" data-parallax="35" class="ct-u-padding-both-40 ct-u-background--black ct-u-mask">
         <div class="container">
             <h2 class="ct-section-header">YENİ sezona kalan süre</h2>
             <div class="row ct-u-padding-bottom-60">
@@ -140,345 +140,185 @@
                 <div class="col-md-6 text-right text-center-md text-center-sm text-center-xs">
                     <div class="ct-u-padding-top-40 hidden-lg"></div>
                     <div id="ct-countdown" class="ct-countdown">
-                        <div><span class="ct-countdown__days">25</span>
-                            <div class="ct-countdown__text">Days</div>
+                        <div><span id="days" class="ct-countdown__days">25</span>
+                            <div class="ct-countdown__text">Gün</div>
                         </div>
-                        <div><span class="ct-countdown__hours">12</span>
-                            <div class="ct-countdown__text">Hours</div>
+                        <div><span id="hours" class="ct-countdown__hours">12</span>
+                            <div class="ct-countdown__text">Saat</div>
                         </div>
-                        <div><span class="ct-countdown__minutes">15</span>
-                            <div class="ct-countdown__text">Minutes</div>
+                        <div><span id="minutes" class="ct-countdown__minutes">15</span>
+                            <div class="ct-countdown__text">Dakika</div>
                         </div>
-                        <div><span class="ct-countdown__seconds">13</span>
-                            <div class="ct-countdown__text">Seconds</div>
+                        <div><span id="seconds" class="ct-countdown__seconds">13</span>
+                            <div class="ct-countdown__text">Saniye</div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="ct-action-link__wrapper"><a href="blog.html" class="ct-action-link"><span class="ct-action-link__text-left">please click here</span><span class="ct-action-link__icon"><i class="fa fa-calendar-o"></i></span><span class="ct-action-link__text-right">to see more events</span></a>
+            <div class="ct-action-link__wrapper"><a href="blog.html" class="ct-action-link"><span class="ct-action-link__text-left">Etkinliklerimiz'e ulaşmak</span><span class="ct-action-link__icon"><i class="fa fa-calendar-o"></i></span><span class="ct-action-link__text-right">için tıklayınız</span></a>
             </div>
         </div>
     </section>
-    <div class="ct-overlay-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <h2 class="ct-overlay-section__title">Snowball<span>#12</span></h2>
-                </div>
-                <div class="col-md-6">
-                    <div class="ct-event-box media">
-                        <div class="media-left">
-                            <div class="ct-event-box__day">19</div>
-                            <div class="ct-event-box__month">aug</div>
-                        </div>
-                        <div class="media-body">
-                            <h3 class="media-heading">Blue Cow Presents: Desert Run Semi-Finals <span>Death Valley, CA</span></h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in.
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="ct-u-padding-top-40"></div>
-    <div class="hidden-xs ct-u-padding-top-80"></div>
-    <div class="container">
-        <div class="ct-action-link__wrapper"><a href="#" class="ct-action-link"><span class="ct-action-link__text-left">Please Click Here</span><span class="ct-action-link__icon"><i class="fa fa-calendar-o"></i></span><span class="ct-action-link__text-right">To Sign Up Now</span></a>
-        </div>
-    </div>
+
     <section id="why-choose" data-background="/assets/images/content/bg-12.jpg" class="ct-u-background--black ct-u-scratches--top ct-u-scratches--dark">
         <div class="container">
-            <h2 class="ct-section-header">Why should you<span> choose</span> sporta?</h2>
+            <h2 class="ct-section-header">BİZİ<span> neden</span> SEÇMELİSİNİZ?</h2>
             <div class="row text-center-md">
                 <div class="col-md-4 ct-u-padding-both-40">
                     <div class="ct-u-padding-top-100 hidden-xs hidden-sm"></div>
                     <div class="ct-icon-box ct-icon-box__right">
-                        <h6 class="ct-icon-box__heading">Fresh killer design</h6>
+                        <h6 class="ct-icon-box__heading">17 SENELİK TECRÜBE</h6>
                         <div class="ct-icon-box__icon"><i class="fa fa-paint-brush"></i>
                         </div>
                     </div>
                     <div class="ct-icon-box ct-icon-box__right">
-                        <h6 class="ct-icon-box__heading">responsive to the bone</h6>
+                        <h6 class="ct-icon-box__heading">Yüksek EĞİTİMLİ Eğitmenler</h6>
                         <div class="ct-icon-box__icon"><i class="fa fa-arrows"></i>
                         </div>
                     </div>
                     <div class="ct-icon-box ct-icon-box__right">
-                        <h6 class="ct-icon-box__heading">tough &amp; clean code</h6>
+                        <h6 class="ct-icon-box__heading">TESİSLERİMİZDE HİÇ CİDDİ KAZA YAŞANMADI</h6>
                         <div class="ct-icon-box__icon"><i class="fa fa-code"></i>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 text-center">
-                    <img src="/assets/images/content/logo-2.png" alt="">
+                    <img src="/assets/images/content/rafting7.jpg" alt="">
                 </div>
                 <div class="col-md-4 ct-u-padding-both-40">
                     <div class="ct-u-padding-top-100 hidden-xs hidden-sm"></div>
                     <div class="ct-icon-box ct-icon-box__left">
                         <div class="ct-icon-box__icon"><i class="fa fa-bullseye"></i>
                         </div>
-                        <h6 class="ct-icon-box__heading">Strong UX</h6>
+                        <h6 class="ct-icon-box__heading">MELEN ÇAYININ EN BÜYÜĞÜ</h6>
                     </div>
                     <div class="ct-icon-box ct-icon-box__left">
                         <div class="ct-icon-box__icon"><i class="fa fa-cubes"></i>
                         </div>
-                        <h6 class="ct-icon-box__heading">Powerful Theme Options</h6>
+                        <h6 class="ct-icon-box__heading">UYGUN FİYAT</h6>
                     </div>
                     <div class="ct-icon-box ct-icon-box__left">
                         <div class="ct-icon-box__icon"><i class="fa fa-connectdevelop"></i>
                         </div>
-                        <h6 class="ct-icon-box__heading">Unlimited Colors</h6>
+                        <h6 class="ct-icon-box__heading">ONLİNE REZERVASYON</h6>
                     </div>
                 </div>
             </div>
             <div class="row ct-u-padding-bottom-60">
                 <div class="col-sm-4">
                     <div class="ct-counter-box ct-counter-box__left">
-                        <div class="ct-counter-box__number"><span data-counter="2277">2277</span>
+                        <div class="ct-counter-box__number"><span data-counter="17">17</span>
                         </div>
-                        <h3 class="ct-counter-box__heading">Callories Per Day</h3>
+                        <h3 class="ct-counter-box__heading">YIL</h3>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="ct-counter-box">
-                        <div class="ct-counter-box__number"><span data-counter="350">350</span><span>k</span>
+                        <div class="ct-counter-box__number"><span data-counter="30">30</span><span>BİN</span>
                         </div>
-                        <h3 class="ct-counter-box__heading">Miles so Far</h3>
+                        <h3 class="ct-counter-box__heading">TUR</h3>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="ct-counter-box ct-counter-box__right">
-                        <div class="ct-counter-box__number"><span data-counter="100">100</span><span>k</span>
+                        <div class="ct-counter-box__number"><span data-counter="10">10</span><span>BİN</span>
                         </div>
-                        <h3 class="ct-counter-box__heading">Happy Customers</h3>
+                        <h3 class="ct-counter-box__heading">MUTLU MÜŞTERİ</h3>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <section data-background="/assets/images/content/bg-2.jpg" data-parallax="35" class="ct-u-background--accent ct-u-mask ct-u-padding-both-100">
-        <div class="container">
-            <div class="row text-center">
-                <div class="col-lg-9 col-sm-7">
-                    <h3 class="ct-section-title">Our Featured Products</h3>
-                </div>
-                <div class="col-lg-3 col-sm-5">
-                    <div class="ct-slider-nav"><a href="shop.html" class="ct-slider-nav__link">Go to shop</a>
-                        <div class="ct-slider-nav__buttons"></div>
+    <!-------------->
+    <section data-background="assets/images/content/rafting8.jpg" id="coming-next" class="ct-u-background--accent text-center ct-u-padding-both-60">
+        <div class="ct-overlay-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2 class="ct-overlay-section__title">FULL PAKET TUR</h2>
                     </div>
-                </div>
-                <div class="col-xs-12 hidden-xs ct-u-padding-bottom-100"></div>
-            </div>
-            <div class="row">
-                <div data-items-xl="4" data-items-lg="3" data-items-sm="2" class="ct-slick ct-js-slick ct-slick--arrows-custom">
-                    <div class="ct-product-box ct-product">
-                        <div class="ct-product-box__inner">
-                            <div class="ct-product-box__pin ct-product-box__pin--sale">
-                                <svg viewBox="0 0 100 100" preserveAspectRatio="none">
-                                    <path d="M100,0 L 50,50 100,100 Z"></path>
-                                </svg>sale!
+                    <div class="col-md-6">
+                        <div class="ct-event-box media">
+                            <div class="media-left">
+                                <div class="ct-event-box__day">1</div>
+                                <div class="ct-event-box__month">şubat</div>
                             </div>
-                            <div class="ct-product-box__image">
-                                <a href="shop.html">
-                                    <img src="/assets/images/content/product-1.jpg" alt="Sporta Predator RX6" class="ct-product-box__img ct-product__img" />
-                                </a>
-                            </div>
-                            <div class="ct-product-box__heading">
-                                <a href="shop.html">
-                                    <div class="ct-product-box__title ct-product__title">Sporta Predator RX6</div>
-                                </a>
-                                <div class="ct-product-box__price"><span class="ct-product-box__price--default ct-product__price">$  2999</span><span class="ct-product-box__price--old">$3599</span>
-                                </div>
-                            </div>
-                            <div class="ct-product-box__footer"><a href="#" data-toggle="tooltip" title="Additional information about current item" class="ct-product-box__button ct-product-box--tooltip"><i class="fa fa-info"></i></a>
-                                <button class="ct-product-box__button ct-product-box__wishlist ct-product__wishlist"><i class="fa fa-heart-o"></i>
-                                </button>
-                                <button class="ct-product-box__button ct-product-box__button--wide ct-product__add-to-cart">Add to cart</button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="ct-product-box ct-product">
-                        <div class="ct-product-box__inner">
-                            <div class="ct-product-box__pin ct-product-box__pin--new">
-                                <svg viewBox="0 0 100 100" preserveAspectRatio="none">
-                                    <path d="M100,0 L 50,50 100,100 Z"></path>
-                                </svg>new!
-                            </div>
-                            <div class="ct-product-box__image">
-                                <a href="shop.html">
-                                    <img src="/assets/images/content/product-1.jpg" alt="Sporta Predator RX6" class="ct-product-box__img ct-product__img" />
-                                </a>
-                            </div>
-                            <div class="ct-product-box__heading">
-                                <a href="shop.html">
-                                    <div class="ct-product-box__title ct-product__title">Sporta Predator RX6</div>
-                                </a>
-                                <div class="ct-product-box__price"><span class="ct-product-box__price--default ct-product__price">$  2999</span>
-                                </div>
-                            </div>
-                            <div class="ct-product-box__footer"><a href="#" data-toggle="tooltip" title="Additional information about current item" class="ct-product-box__button ct-product-box--tooltip"><i class="fa fa-info"></i></a>
-                                <button class="ct-product-box__button ct-product-box__wishlist ct-product__wishlist"><i class="fa fa-heart-o"></i>
-                                </button>
-                                <button class="ct-product-box__button ct-product-box__button--wide ct-product__add-to-cart">Add to cart</button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="ct-product-box ct-product">
-                        <div class="ct-product-box__inner">
-                            <div class="ct-product-box__image">
-                                <a href="shop.html">
-                                    <img src="/assets/images/content/product-1.jpg" alt="Sporta Predator RX6" class="ct-product-box__img ct-product__img" />
-                                </a>
-                            </div>
-                            <div class="ct-product-box__heading">
-                                <a href="shop.html">
-                                    <div class="ct-product-box__title ct-product__title">Sporta Predator RX6</div>
-                                </a>
-                                <div class="ct-product-box__price"><span class="ct-product-box__price--default ct-product__price">$  2999</span>
-                                </div>
-                            </div>
-                            <div class="ct-product-box__footer"><a href="#" data-toggle="tooltip" title="Additional information about current item" class="ct-product-box__button ct-product-box--tooltip"><i class="fa fa-info"></i></a>
-                                <button class="ct-product-box__button ct-product-box__wishlist ct-product__wishlist"><i class="fa fa-heart-o"></i>
-                                </button>
-                                <button class="ct-product-box__button ct-product-box__button--wide ct-product__add-to-cart">Add to cart</button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="ct-product-box ct-product ct-product--out-of-stock">
-                        <div class="ct-product-box__inner">
-                            <div class="ct-product-box__pin ct-product-box__pin--out-of-stock">
-                                <svg viewBox="0 0 100 100" preserveAspectRatio="none">
-                                    <path d="M100,0 L 50,50 100,100 Z"></path>
-                                </svg>out of stock
-                            </div>
-                            <div class="ct-product-box__image">
-                                <a href="shop.html">
-                                    <img src="/assets/images/content/product-1.jpg" alt="Sporta Predator RX6" class="ct-product-box__img ct-product__img" />
-                                </a>
-                            </div>
-                            <div class="ct-product-box__heading">
-                                <a href="shop.html">
-                                    <div class="ct-product-box__title ct-product__title">Sporta Predator RX6</div>
-                                </a>
-                                <div class="ct-product-box__price"><span class="ct-product-box__price--default ct-product__price">$  2999</span>
-                                </div>
-                            </div>
-                            <div class="ct-product-box__footer"><a href="#" data-toggle="tooltip" title="Additional information about current item" class="ct-product-box__button ct-product-box--tooltip"><i class="fa fa-info"></i></a>
-                                <button class="ct-product-box__button ct-product-box__wishlist ct-product__wishlist"><i class="fa fa-heart-o"></i>
-                                </button>
-                                <button disabled="disabled" class="ct-product-box__button ct-product-box__button--wide ct-product__add-to-cart">Add to cart</button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="ct-product-box ct-product">
-                        <div class="ct-product-box__inner">
-                            <div class="ct-product-box__pin ct-product-box__pin--sale">
-                                <svg viewBox="0 0 100 100" preserveAspectRatio="none">
-                                    <path d="M100,0 L 50,50 100,100 Z"></path>
-                                </svg>sale!
-                            </div>
-                            <div class="ct-product-box__image">
-                                <a href="shop.html">
-                                    <img src="/assets/images/content/product-1.jpg" alt="Sporta Predator RX6" class="ct-product-box__img ct-product__img" />
-                                </a>
-                            </div>
-                            <div class="ct-product-box__heading">
-                                <a href="shop.html">
-                                    <div class="ct-product-box__title ct-product__title">Sporta Predator RX6</div>
-                                </a>
-                                <div class="ct-product-box__price"><span class="ct-product-box__price--default ct-product__price">$  2999</span><span class="ct-product-box__price--old">$3599</span>
-                                </div>
-                            </div>
-                            <div class="ct-product-box__footer"><a href="#" data-toggle="tooltip" title="Additional information about current item" class="ct-product-box__button ct-product-box--tooltip"><i class="fa fa-info"></i></a>
-                                <button class="ct-product-box__button ct-product-box__wishlist ct-product__wishlist"><i class="fa fa-heart-o"></i>
-                                </button>
-                                <button class="ct-product-box__button ct-product-box__button--wide ct-product__add-to-cart">Add to cart</button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="ct-product-box ct-product">
-                        <div class="ct-product-box__inner">
-                            <div class="ct-product-box__pin ct-product-box__pin--new">
-                                <svg viewBox="0 0 100 100" preserveAspectRatio="none">
-                                    <path d="M100,0 L 50,50 100,100 Z"></path>
-                                </svg>new!
-                            </div>
-                            <div class="ct-product-box__image">
-                                <a href="shop.html">
-                                    <img src="/assets/images/content/product-1.jpg" alt="Sporta Predator RX6" class="ct-product-box__img ct-product__img" />
-                                </a>
-                            </div>
-                            <div class="ct-product-box__heading">
-                                <a href="shop.html">
-                                    <div class="ct-product-box__title ct-product__title">Sporta Predator RX6</div>
-                                </a>
-                                <div class="ct-product-box__price"><span class="ct-product-box__price--default ct-product__price">$  2999</span>
-                                </div>
-                            </div>
-                            <div class="ct-product-box__footer"><a href="#" data-toggle="tooltip" title="Additional information about current item" class="ct-product-box__button ct-product-box--tooltip"><i class="fa fa-info"></i></a>
-                                <button class="ct-product-box__button ct-product-box__wishlist ct-product__wishlist"><i class="fa fa-heart-o"></i>
-                                </button>
-                                <button class="ct-product-box__button ct-product-box__button--wide ct-product__add-to-cart">Add to cart</button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="ct-product-box ct-product">
-                        <div class="ct-product-box__inner">
-                            <div class="ct-product-box__image">
-                                <a href="shop.html">
-                                    <img src="assets/images/content/product-1.jpg" alt="Sporta Predator RX6" class="ct-product-box__img ct-product__img" />
-                                </a>
-                            </div>
-                            <div class="ct-product-box__heading">
-                                <a href="shop.html">
-                                    <div class="ct-product-box__title ct-product__title">Sporta Predator RX6</div>
-                                </a>
-                                <div class="ct-product-box__price"><span class="ct-product-box__price--default ct-product__price">$  2999</span>
-                                </div>
-                            </div>
-                            <div class="ct-product-box__footer"><a href="#" data-toggle="tooltip" title="Additional information about current item" class="ct-product-box__button ct-product-box--tooltip"><i class="fa fa-info"></i></a>
-                                <button class="ct-product-box__button ct-product-box__wishlist ct-product__wishlist"><i class="fa fa-heart-o"></i>
-                                </button>
-                                <button class="ct-product-box__button ct-product-box__button--wide ct-product__add-to-cart">Add to cart</button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="ct-product-box ct-product ct-product--out-of-stock">
-                        <div class="ct-product-box__inner">
-                            <div class="ct-product-box__pin ct-product-box__pin--out-of-stock">
-                                <svg viewBox="0 0 100 100" preserveAspectRatio="none">
-                                    <path d="M100,0 L 50,50 100,100 Z"></path>
-                                </svg>out of stock
-                            </div>
-                            <div class="ct-product-box__image">
-                                <a href="shop.html">
-                                    <img src="assets/images/content/product-1.jpg" alt="Sporta Predator RX6" class="ct-product-box__img ct-product__img" />
-                                </a>
-                            </div>
-                            <div class="ct-product-box__heading">
-                                <a href="shop.html">
-                                    <div class="ct-product-box__title ct-product__title">Sporta Predator RX6</div>
-                                </a>
-                                <div class="ct-product-box__price"><span class="ct-product-box__price--default ct-product__price">$  2999</span>
-                                </div>
-                            </div>
-                            <div class="ct-product-box__footer"><a href="#" data-toggle="tooltip" title="Additional information about current item" class="ct-product-box__button ct-product-box--tooltip"><i class="fa fa-info"></i></a>
-                                <button class="ct-product-box__button ct-product-box__wishlist ct-product__wishlist"><i class="fa fa-heart-o"></i>
-                                </button>
-                                <button disabled="disabled" class="ct-product-box__button ct-product-box__button--wide ct-product__add-to-cart">Add to cart</button>
+                            <div class="media-body">
+                                <h3 class="media-heading">GÜNLÜK TUR<br><span>Melenci Çayı,Düzce</span></h3>Melenci Çayında bir günlük konaklama dahil tur.
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        <div class="ct-u-padding-top-40"></div>
+        <div class="hidden-xs ct-u-padding-top-80"></div>
     </section>
+    <!-------------->
+    <!-------------->
+    <section data-background="assets/images/content/rafting9.jpg" id="coming-next" class="ct-u-background--accent text-center ct-u-padding-both-60">
+        <div class="ct-overlay-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2 class="ct-overlay-section__title">STANDART PAKET TUR</h2>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="ct-event-box media">
+                            <div class="media-left">
+                                <div class="ct-event-box__day">1</div>
+                                <div class="ct-event-box__month">şubat</div>
+                            </div>
+                            <div class="media-body">
+                                <h3 class="media-heading">ÖĞRENCİ PAKETİ<br><span>Melenci Çayı,Düzce</span></h3>Melenci Çayında bir günlük konaklama dahil tur.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="ct-u-padding-top-40"></div>
+        <div class="hidden-xs ct-u-padding-top-80"></div>
+    </section>
+    <!-------------->
+    <!-------------->
+    <section data-background="assets/images/content/rafting11.jpg" id="coming-next" class="ct-u-background--accent text-center ct-u-padding-both-60">
+        <div class="ct-overlay-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2 class="ct-overlay-section__title">TEK ÖĞÜN <br>RAFTİNG TUR </h2>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="ct-event-box media">
+                            <div class="media-left">
+                                <div class="ct-event-box__day">1</div>
+                                <div class="ct-event-box__month">şubat</div>
+                            </div>
+                            <div class="media-body">
+                                <h3 class="media-heading">ÖĞRENCİ PAKETİ<br><span>Melenci Çayı,Düzce</span></h3>Melenci Çayında bir günlük konaklama dahil tur.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="ct-u-padding-top-40"></div>
+        <div class="hidden-xs ct-u-padding-top-80"></div>
+    </section>
+    <!-------------->
+
+
+
     <section id="blog-section" class="ct-u-scratches--top ct-u-padding-top-100">
         <div class="container">
             <div class="row text-center">
                 <div class="col-lg-9 col-sm-7">
-                    <h3 class="ct-section-title">Latest News</h3>
+                    <h3 class="ct-section-title">Rafting Blog'tan haberler</h3>
                 </div>
                 <div class="col-lg-3 col-sm-5">
-                    <div class="ct-slider-nav"><a href="blog.html" class="ct-slider-nav__link">Go to blog</a>
+
+                    <div class="ct-slider-nav"><a href="blog.html" class="ct-slider-nav__link">Blog'a git</a>
                         <div class="ct-slider-nav__buttons"></div>
                     </div>
                 </div>
@@ -487,42 +327,50 @@
             <div class="row ct-u-padding-top-40">
                 <div data-items-lg="3" data-items-sm="2" class="ct-slick ct-js-slick ct-slick--arrows-custom">
                     <article class="ct-blog-post">
+                          <img style="height: 200px; width: 410px; margin-bottom: 10px;" src="assets/images/content/rafting-kids.jpg" class="ct-product-box__img ct-product__img" />
                         <div class="ct-blog-post__body media">
                             <div class="media-left">
                                 <div class="ct-blog-post__day">19</div>
                                 <div class="ct-blog-post__month">Aug</div>
                             </div>
+
                             <div class="media-body">
-                                <h3 class="media-heading"><a href="#" class="title">Season finals and winners</a><small>by   <a href="#">Admin</a> in   <a href="#">News</a></small></h3>
+                                <h3 class="media-heading"><a href="#" class="title">ÇOCUKLAR RAFTİNG YAPABİLİR Mİ?</a><small><a href="#">Serdal </a>tarafından yazıldı</small></h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in.</p>
                             </div>
                         </div>
                     </article>
                     <article class="ct-blog-post">
+                        <img style="height: 200px; width: 410px; margin-bottom: 10px;" src="assets/images/content/melen-cayi.jpg" class="ct-product-box__img ct-product__img" />
+
                         <div class="ct-blog-post__body media">
                             <div class="media-left">
                                 <div class="ct-blog-post__day">17</div>
                                 <div class="ct-blog-post__month">Aug</div>
                             </div>
                             <div class="media-body">
-                                <h3 class="media-heading"><a href="#" class="title">Last Round of Summer Blitz!</a><small>by   <a href="#">Admin</a> in   <a href="#">News</a></small></h3>
+                                <h3 class="media-heading"><a href="#" class="title">RAFTİNGE GİDERKEN YANIMIZA NE ALMALIYIZ</a><small><a href="#">Serdal </a>tarafından yazıldı</small></h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in.</p>
                             </div>
                         </div>
                     </article>
                     <article class="ct-blog-post">
+                        <img style="height: 200px; width: 410px; margin-bottom: 10px;" src="assets/images/content/melen-cayi.jpg" class="ct-product-box__img ct-product__img" />
+
                         <div class="ct-blog-post__body media">
                             <div class="media-left">
                                 <div class="ct-blog-post__day">08</div>
                                 <div class="ct-blog-post__month">Aug</div>
                             </div>
                             <div class="media-body">
-                                <h3 class="media-heading"><a href="#" class="title">Hardcore Moments of '09</a><small>by   <a href="#">Admin</a> in   <a href="#">News</a></small></h3>
+                                <h3 class="media-heading"><a href="#" class="title">MELEN ÇAYINA NASIL GİDİLİR?</a><small><a href="#">Serdal </a>tarafından yazıldı</small></h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in.</p>
                             </div>
                         </div>
                     </article>
                     <article class="ct-blog-post">
+                        <img style="height: 200px; width: 410px; margin-bottom: 10px;" src="assets/images/content/bg-1.jpg" class="ct-product-box__img ct-product__img" />
+
                         <div class="ct-blog-post__body media">
                             <div class="media-left">
                                 <div class="ct-blog-post__day">19</div>
@@ -535,6 +383,8 @@
                         </div>
                     </article>
                     <article class="ct-blog-post">
+                        <img style="height: 200px; width: 410px; margin-bottom: 10px;" src="assets/images/content/bg-1.jpg" class="ct-product-box__img ct-product__img" />
+
                         <div class="ct-blog-post__body media">
                             <div class="media-left">
                                 <div class="ct-blog-post__day">17</div>
@@ -547,6 +397,8 @@
                         </div>
                     </article>
                     <article class="ct-blog-post">
+                        <img style="height: 200px; width: 410px; margin-bottom: 10px;" src="assets/images/content/bg-1.jpg" class="ct-product-box__img ct-product__img" />
+
                         <div class="ct-blog-post__body media">
                             <div class="media-left">
                                 <div class="ct-blog-post__day">08</div>
@@ -561,25 +413,8 @@
                 </div>
             </div>
         </div>
-        <div class="ct-u-padding-bottom-100 hidden-xs"></div>
     </section>
     <!--** Gallery-->
-    <div class="flickr-gallery">
-        <figure class="ct-isotope-icon"><i class="fa fa-flickr"></i>
-        </figure>
-        <script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=9&amp;display=random&amp;size=m&amp;layout=x&amp;source=group&amp;group=641761@N20"></script>
-    </div>
-    <div data-background="assets/images/content/twitter-bg-1.jpg" class="ct-twitter__section ct-u-background--accent">
-        <div class="container">
-            <div class="ct-twitter__buttons"><i class="fa fa-twitter"></i>
-                <div class="ct-slider-nav">
-                    <div class="ct-slider-nav__buttons"></div>
-                </div>
-            </div>
-            <div class="clearfix"></div>
-            <div data-items="1" data-adaptiveHeight="true" class="ct-js-twitter ct-slick--arrows-custom ct-twitter"></div>
-        </div>
-    </div>
     <!-- Footer-->
     <footer class="ct-footer">
         <div class="container">
@@ -757,6 +592,42 @@
         </div>
     </div>
 </div>
+
+<script>
+    (function () {
+        const second = 1000,
+            minute = second * 60,
+            hour = minute * 60,
+            day = hour * 24;
+
+        let birthday = "Feb 1, 2021 00:00:00",
+            countDown = new Date(birthday).getTime(),
+            x = setInterval(function() {
+
+                let now = new Date().getTime(),
+                    distance = countDown - now;
+
+                document.getElementById("days").innerText = Math.floor(distance / (day)),
+                    document.getElementById("hours").innerText = Math.floor((distance % (day)) / (hour)),
+                    document.getElementById("minutes").innerText = Math.floor((distance % (hour)) / (minute)),
+                    document.getElementById("seconds").innerText = Math.floor((distance % (minute)) / second);
+
+                //do something later when date is reached
+                if (distance < 0) {
+                    let headline = document.getElementById("headline"),
+                        countdown = document.getElementById("countdown"),
+                        content = document.getElementById("content");
+
+                    headline.innerText = "It's my birthday!";
+                    countdown.style.display = "none";
+                    content.style.display = "block";
+
+                    clearInterval(x);
+                }
+                //seconds
+            }, 0)
+    }());
+</script>
 <!-- JavaScripts-->
 <script src="/assets/js/sporta.min.js"></script>
 <script src="/assets/js/main.js"></script>
