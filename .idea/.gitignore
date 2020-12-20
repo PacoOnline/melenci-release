@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../melencirafting.com\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../:\xampp\htdocs\melencirafting.com\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
