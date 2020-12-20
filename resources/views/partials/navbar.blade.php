@@ -3,7 +3,7 @@
         <div class="container-fluid">
             <div class="navbar-header">
                 <a href="index.html" class="navbar-brand">
-                    <img style="height: 43px; width: 136px;" src="/assets/images/content/melenciraftinglogo.png" alt="Sporta Logo" class="logo-default">
+                    <img style="height: 43px; width: 136px;" src="/assets/images/content/logo-white-3.png" alt="Sporta Logo" class="logo-default">
                     <img style="height: 43px; width: 136px;" src="/assets/images/content/melenciraftinglogo.png" alt="Sporta Logo" class="logo-inverse">
                 </a>
             </div>
