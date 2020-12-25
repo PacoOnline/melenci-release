@@ -255,7 +255,6 @@
         <div class="hidden-xs ct-u-padding-top-80"></div>
     </section>
     <!-------------->
-    <!-------------->
     <section data-background="assets/images/content/rafting9.jpg" id="coming-next" class="ct-u-background--accent text-center ct-u-padding-both-60">
         <div class="ct-overlay-section">
             <div class="container">

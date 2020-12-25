@@ -7,7 +7,7 @@
                     <img style="height: 43px; width: 136px;" src="/assets/images/content/melenciraftinglogo.png" alt="Sporta Logo" class="logo-inverse">
                 </a>
             </div>
-            <ul class="ct-socials list-inline list-unstyled pull-left">
+            <ol class="ct-socials list-inline list-unstyled pull-left">
                 <li class="ct-socials__item--facebook"><a href="https://www.facebook.com/createITpl"><i class="fa fa-facebook"></i></a>
                 </li>
                 <li class="ct-socials__item--twitter"><a href="https://twitter.com/createitpl"><i class="fa fa-twitter"></i></a>
@@ -16,14 +16,14 @@
                 </li>
                 <li class="ct-socials__item--linkedin"><a href="#"><i class="fa fa-linkedin"></i></a>
                 </li>
-            </ul>
-            <ul class="ct-menu-icons pull-right">
+            </ol>
+            <ol class="ct-menu-icons pull-right">
                 <li class="ct-search-toggle"><a href="#" class="ct-icon"><i class="fa fa-search"></i></a>
                 </li>
                 <li class="ct-mobile-toggle"><a href="#" class="ct-icon"><i class="fa fa-bars"></i><i class="fa fa-times"></i></a>
                 </li>
-            </ul>
-            <ul class="nav navbar-nav navbar-right">
+            </ol>
+            <ol class="nav navbar-nav navbar-right">
                 <li class="nav-item"><a href="services.html">Anasayfa</a>
 
                 <li class="nav-item"><a href="services.html">Hakkımızda</a>
@@ -42,12 +42,12 @@
                 </li>
                 <li class="nav-item"><a href="contact.html">İLETİŞİM</a>
                 </li>
-            </ul>
+            </ol>
         </div>
     </div>
 </nav>
 <div class="ct-navbar-mobile">
-    <img src="/assets/images/content/page-logo.png">
+    <img style="height: 43px; width: 136px;" src="/assets/images/content/page-logo.png">
     <ul class="list-inline pull-right">
         <li class="ct-search-toggle"><a href="#" class="ct-icon"><i class="fa fa-search"></i></a>
         </li>

@@ -16,6 +16,9 @@ use Illuminate\Support\Facades\Route;
 //Route::get('/', function () { return view('welcome');});
 
 Route::view('/', 'home');
+Route::view('tur','tours');
+Route::view('hotel','hotel');
+Route::view('tur/full-paket-tur','single-listing');
 
 
 Route::group(['prefix' => 'admin'], function () {
