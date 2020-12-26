@@ -36,7 +36,7 @@
                         <div class="col-sm-3 hidden-xs">
                         </div>
                         <div class="col-sm-9 ct-u-padding-top-40">
-                            <h1>MELENCİ RAFTİNG<small><br><span>MELENCİ ÇAYININ en büyüğü</span></small></h1><a href="about-us.html" class="btn btn-motive">Hakkımızda</a>&nbsp; &nbsp; &nbsp;<a href="services.html" class="btn btn-default-o">HİZMETLERİMİZ</a>
+                            <h1>MELENCİ RAFTİNG<small><br><span>MELENCİ ÇAYININ en büyüğü</span></small></h1><a href="" class="btn btn-motive">Hakkımızda</a>&nbsp; &nbsp; &nbsp;<a href="/tur/full-paket-tur" class="btn btn-default-o">HİZMETLERİMİZ</a>
                         </div>
                     </div>
                 </div>
@@ -317,7 +317,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-5">
 
-                    <div class="ct-slider-nav"><a href="blog.html" class="ct-slider-nav__link">Blog'a git</a>
+                    <div class="ct-slider-nav"><a href="/" class="ct-slider-nav__link">Blog'a git</a>
                         <div class="ct-slider-nav__buttons"></div>
                     </div>
                 </div>
@@ -329,13 +329,13 @@
                           <img style="height: 200px; width: 410px; margin-bottom: 10px;" src="assets/images/content/rafting-kids.jpg" class="ct-product-box__img ct-product__img" />
                         <div class="ct-blog-post__body media">
                             <div class="media-left">
-                                <div class="ct-blog-post__day">19</div>
-                                <div class="ct-blog-post__month">Aug</div>
+                                <div class="ct-blog-post__day">21</div>
+                                <div class="ct-blog-post__month">Aralık</div>
                             </div>
 
                             <div class="media-body">
                                 <h3 class="media-heading"><a href="#" class="title">ÇOCUKLAR RAFTİNG YAPABİLİR Mİ?</a><small><a href="#">Serdal </a>tarafından yazıldı</small></h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in.</p>
+                                <p>Çocukların da rafting yapabileceğine dair yazı.</p>
                             </div>
                         </div>
                     </article>
@@ -344,12 +344,12 @@
 
                         <div class="ct-blog-post__body media">
                             <div class="media-left">
-                                <div class="ct-blog-post__day">17</div>
-                                <div class="ct-blog-post__month">Aug</div>
+                                <div class="ct-blog-post__day">20</div>
+                                <div class="ct-blog-post__month">Aralık</div>
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading"><a href="#" class="title">RAFTİNGE GİDERKEN YANIMIZA NE ALMALIYIZ</a><small><a href="#">Serdal </a>tarafından yazıldı</small></h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in.</p>
+                                <p>raftinge giderken yanımıza ne almalıyız, giyim ürünleri ve diğer ürünler</p>
                             </div>
                         </div>
                     </article>
@@ -359,11 +359,11 @@
                         <div class="ct-blog-post__body media">
                             <div class="media-left">
                                 <div class="ct-blog-post__day">08</div>
-                                <div class="ct-blog-post__month">Aug</div>
+                                <div class="ct-blog-post__month">Kasım</div>
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading"><a href="#" class="title">MELEN ÇAYINA NASIL GİDİLİR?</a><small><a href="#">Serdal </a>tarafından yazıldı</small></h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in.</p>
+                                <p>Düzce - sakarya yolunda bulunan melen çayına nasıl gidebileceğinize dair bir bilgilendirme</p>
                             </div>
                         </div>
                     </article>
@@ -372,8 +372,8 @@
 
                         <div class="ct-blog-post__body media">
                             <div class="media-left">
-                                <div class="ct-blog-post__day">19</div>
-                                <div class="ct-blog-post__month">Aug</div>
+                                <div class="ct-blog-post__day">07</div>
+                                <div class="ct-blog-post__month">Kasım</div>
                             </div>
                             <div class="media-body">
                                 <h3 class="media-heading"><a href="#" class="title">Season finals and winners</a><small>by   <a href="#">Admin</a> in   <a href="#">News</a></small></h3>
@@ -420,8 +420,8 @@
             <div class="row">
                 <!-- COLUMN-->
                 <div class="col-md-3 col-sm-6">
-                    <img src="assets/images/content/page-logo.png" alt="Footer Logo">
-                    <p class="ct-u-padding-both-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in. Lorem ipsum.</p>
+                    <img style="height: 100px;" src="assets/images/content/logo-white-3.png" alt="Footer Logo">
+                    <p class="ct-u-padding-both-20">Melenci rafting, düzcede - melen çayında hizmet veren bir rafting firmasıdır.</p>
                     <ul class="ct-socials list-inline list-unstyled">
                         <li class="ct-socials__item--facebook"><a href="https://www.facebook.com/createITpl"><i class="fa fa-facebook"></i></a>
                         </li>
@@ -436,30 +436,30 @@
                 <!-- COLUMN-->
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
-                        <h4 class="widget-title ct-u-padding-bottom-5">Contact Us</h4>
+                        <h4 class="widget-title ct-u-padding-bottom-5">İletişime geç</h4>
                     </div>
                     <div class="media">
                         <div class="media-left"><a href="https://www.google.com/maps/place/121+King+St,+Melbourne+VIC+3000,+Australia/@-37.8173097,144.9532423,17z/data=!4m2!3m1!1s0x6ad65d4e793770d3:0x9e44d6ad0d76ba7c" target="_blank"><i class="fa fa-home"></i></a>
                         </div>
-                        <div class="media-body media-middle"><a href="https://www.google.com/maps/place/121+King+St,+Melbourne+VIC+3000,+Australia/@-37.8173097,144.9532423,17z/data=!4m2!3m1!1s0x6ad65d4e793770d3:0x9e44d6ad0d76ba7c" target="_blank">121 King Street, Melbourne Victoria 3000 Australia</a>
+                        <div class="media-body media-middle"><a href="https://www.google.com/maps/place/121+King+St,+Melbourne+VIC+3000,+Australia/@-37.8173097,144.9532423,17z/data=!4m2!3m1!1s0x6ad65d4e793770d3:0x9e44d6ad0d76ba7c" target="_blank">Melen Çayı, Düzce</a>
                         </div>
                     </div>
                     <div class="media">
                         <div class="media-left"><a href="tel:11234567890"><i class="fa fa-phone"></i></a>
                         </div>
-                        <div class="media-body media-middle"><a href="tel:11234567890">+1 123 456 7890</a>
+                        <div class="media-body media-middle"><a href="tel:11234567890">+90 538  629 3141</a>
                         </div>
                     </div>
                     <div class="media">
                         <div class="media-left"><a href="mailto:example@example.com"><i class="fa fa-envelope-o"></i></a>
                         </div>
-                        <div class="media-body media-middle"><a href="mailto:example@example.com" class="ct-u-color--motive">example@example.com</a>
+                        <div class="media-body media-middle"><a href="mailto:example@example.com" class="ct-u-color--motive">info@melencirafting.com</a>
                         </div>
                     </div>
                     <div class="media">
                         <div class="media-left"><a href="www.example.com" target="_blank"><i class="fa fa-globe"></i></a>
                         </div>
-                        <div class="media-body media-middle"><a href="www.example.com" target="_blank" class="ct-u-color--motive">www.example.com</a>
+                        <div class="media-body media-middle"><a href="www.example.com" target="_blank" class="ct-u-color--motive">bilgi@melencirafting.com</a>
                         </div>
                     </div>
                 </div>
@@ -468,15 +468,15 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
                         <div class="widget-inner">
-                            <h4 class="widget-title">Quick Links</h4>
+                            <h4 class="widget-title">Hızlı Ulaş</h4>
                             <ul>
-                                <li><a href="about-us.html">About Us</a>
+                                <li><a >Hakkımızda</a>
                                 </li>
-                                <li><a href="services.html">Services</a>
+                                <li><a >Hizmetlerimiz</a>
                                 </li>
-                                <li><a href="blog.html">Blog</a>
+                                <li><a >Blog</a>
                                 </li>
-                                <li><a href="shop.html">Shop</a>
+                                <li><a>Rezervasyon yap</a>
                                 </li>
                             </ul>
                         </div>
@@ -486,12 +486,12 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="widget widget_newsletter">
                         <div class="widget-inner">
-                            <h4 class="widget-title">Join newsletter</h4>
-                            <p>Join our newsletter to get info about latest events and deals!</p>
+                            <h4 class="widget-title">Bültenimize abone ol</h4>
+                            <p>Son indirim ve fırsatlardan haberdar ol.</p>
                             <form action="assets/form/send.php" method="POST" data-email-subject="Sporta Newsletter" class="ct-js-validate ct-newsletter__form form-group">
                                 <input type="email" id="widget_newsletter" placeholder="Email Address" required="required" name="field[]" class="form-control" />
                                 <label for="widget_newsletter" class="sr-only">Email Address</label>
-                                <button type="submit" class="btn btn-motive">Join Now</button>
+                                <button type="submit" class="btn btn-motive">Şimdi katıl</button>
                             </form>
                         </div>
                     </div>
@@ -503,13 +503,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6 text-center text-left-sm">
-                    <p class="ct-u-margin-bottom-0">&copy; 2016 CreateIT. All rights reserved.</p>
+                    <p class="ct-u-margin-bottom-0">&copy;Melencirafting.com - Umut Özyıldırım tüm hakları saklıdır </p>
                 </div>
                 <div class="col-sm-6 text-center text-right-sm">
                     <ul class="list-inline">
-                        <li><a href="#">Terms &amp; Conditions</a>
+                        <li><a href="#">Şartlar &amp; Koşullar</a>
                         </li>
-                        <li><a href="#">Privacy Policy</a>
+                        <li><a href="#">Gizlilik Politikası</a>
                         </li>
                     </ul>
                 </div>
@@ -523,59 +523,22 @@
     </div>
     <div class="inner">
         <div class="ct-menu-mobile__logo">
-            <img src="assets/images/content/page-logo.png" alt="SPORTA">
+            <img src="assets/images/content/logo-white-3.png" alt="SPORTA">
         </div>
         <ul class="ct-menu-mobile__nav">
-            <li role="presentation" class="dropdown nav-item"><a data-toggle="dropdown" href="index.html" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle">Home<span><i class="fa fa-angle-down"></i></span></a>
-                <ul class="dropdown-menu">
-                    <li><a href="index.html">Mountain Bikes Home</a>
-                    </li>
-                    <li><a href="index-indie.html">Skateboards Home</a>
-                    </li>
-                    <li><a href="index-parallax.html">Snowboards Home</a>
-                    </li>
-                    <li><a href="index-shop.html">Online Shop</a>
-                    </li>
-                </ul>
+            <li class="nav-item"><a href="services.html">Anasayfa</a>
             </li>
-            <li role="presentation" class="dropdown nav-item"><a data-toggle="dropdown" href="about-us.html" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle">About Us<span><i class="fa fa-angle-down"></i></span></a>
-                <ul class="dropdown-menu">
-                    <li><a href="about-us.html">About Us</a>
-                    </li>
-                    <li><a href="team.html">Team</a>
-                    </li>
-                </ul>
+            <li class="nav-item"><a href="/">Hakkımızda</a>
             </li>
-            <li class="nav-item"><a href="services.html">Services</a>
+            <li class="nav-item"><a href="/tur/full-paket-tur">Tur Paketleri</a>
             </li>
-            <li role="presentation" class="dropdown nav-item"><a data-toggle="dropdown" href="sample-page.html" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle">Pages<span><i class="fa fa-angle-down"></i></span></a>
-                <ul class="dropdown-menu">
-                    <li><a href="sample-page.html">Sample Page</a>
-                    </li>
-                    <li><a href="sample-left-sidebar.html">Left Sidebar</a>
-                    </li>
-                    <li><a href="sample-right-sidebar.html">Right Sidebar</a>
-                    </li>
-                    <li><a href="coming-soon.html">Coming Soon</a>
-                    </li>
-                    <li><a href="blank-page.html">Blank Page</a>
-                    </li>
-                </ul>
+            <li class="nav-item"><a href="/">İletişim</a>
             </li>
-            <li class="nav-item"><a href="features.html">Features</a>
+            <li class="nav-item"><a href="/">Rezervasyon</a>
             </li>
-            <li role="presentation" class="dropdown nav-item"><a data-toggle="dropdown" href="blog.html" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle">Blog<span><i class="fa fa-angle-down"></i></span></a>
-                <ul class="dropdown-menu">
-                    <li><a href="blog.html">Blog</a>
-                    </li>
-                    <li><a href="blog-single.html">Single Post</a>
-                    </li>
-                </ul>
+            <li class="nav-item"><a href="/">Galeri</a>
             </li>
-            <li class="nav-item"><a href="shop.html">Shop</a>
-            </li>
-            <li class="nav-item"><a href="contact.html">Contact Us</a>
-            </li>
+            
         </ul>
         <div class="text-center">
             <ul class="ct-socials list-inline list-unstyled ct-socials--dark">

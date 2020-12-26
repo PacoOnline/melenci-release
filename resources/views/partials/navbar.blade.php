@@ -47,7 +47,7 @@
     </div>
 </nav>
 <div class="ct-navbar-mobile">
-    <img style="height: 43px; width: 136px;" src="/assets/images/content/page-logo.png">
+    <img style="height: 43px; width: 136px;" src="/assets/images/content/logo-white-3.png">
     <ul class="list-inline pull-right">
         <li class="ct-search-toggle"><a href="#" class="ct-icon"><i class="fa fa-search"></i></a>
         </li>
