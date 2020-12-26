@@ -30,7 +30,7 @@
                 <li class="nav-item"><a href="/">Konaklama Seçenekleri</a>
                 </li>
                 </li>
-                <li role="presentation" class="dropdown nav-item"><a data-toggle="dropdown" href="blog.html" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle">Galeriler<span><i class="fa fa-angle-down"></i></span></a>
+                <li role="presentation" class="dropdown nav-item"><a data-toggle="dropdown" href="/" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle">Galeriler<span><i class="fa fa-angle-down"></i></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="/">Resim Galerisi</a>
                         </li>
