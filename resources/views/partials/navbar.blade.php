@@ -24,23 +24,23 @@
                 </li>
             </ol>
             <ol class="nav navbar-nav navbar-right">
-                <li class="nav-item"><a href="services.html">Anasayfa</a>
+                <li class="nav-item"><a href="/">Anasayfa</a>
 
-                <li class="nav-item"><a href="services.html">Hakkımızda</a>
-                <li class="nav-item"><a href="services.html">Konaklama Seçenekleri</a>
+                <li class="nav-item"><a href="/">Hakkımızda</a>
+                <li class="nav-item"><a href="/">Konaklama Seçenekleri</a>
                 </li>
                 </li>
                 <li role="presentation" class="dropdown nav-item"><a data-toggle="dropdown" href="blog.html" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle">Galeriler<span><i class="fa fa-angle-down"></i></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="blog.html">Resim Galerisi</a>
+                        <li><a href="/">Resim Galerisi</a>
                         </li>
-                        <li><a href="blog-single.html">Video Galerisi</a>
+                        <li><a href="/">Video Galerisi</a>
                         </li>
                     </ul>
                 </li>                </li>
-                <li class="nav-item"><a href="shop.html">Rezervasyon</a>
+                <li class="nav-item"><a href="/tur/full-paket-tur">Rezervasyon</a>
                 </li>
-                <li class="nav-item"><a href="contact.html">İLETİŞİM</a>
+                <li class="nav-item"><a href="/">İLETİŞİM</a>
                 </li>
             </ol>
         </div>

@@ -538,7 +538,7 @@
             </li>
             <li class="nav-item"><a href="/">Galeri</a>
             </li>
-            
+
         </ul>
         <div class="text-center">
             <ul class="ct-socials list-inline list-unstyled ct-socials--dark">
